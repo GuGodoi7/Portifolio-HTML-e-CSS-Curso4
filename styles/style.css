@@ -117,3 +117,13 @@ body{
         width: auto;
     }
 }
+.imagem_gu{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid var(--cor-terciaria);
+    width: 40%;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+}
